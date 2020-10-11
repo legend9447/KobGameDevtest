@@ -1,0 +1,8 @@
+.vscode
+Logs
+Packages
+Library
+Temp
+*.csproj
+*.sln
+user.keystore
